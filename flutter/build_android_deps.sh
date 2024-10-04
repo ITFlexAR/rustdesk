@@ -1,5 +1,5 @@
 #!/bin/bash
-
+exit 0
 set -e -o pipefail
 
 ANDROID_ABI=$1
